@@ -63,9 +63,9 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Alif`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "Team Leder" ]'><span className="wrap">{text}</span></span></h1>
-                <p>My full name is Alif Ahmed.I am a front-end web developer. I can make the website more, more interactive with web animation and React JS framework.I love to Build an Amazing Web Application.I Design and develop conversion-focused websites to promote ecommerce success. Experience design and strategic marketing solutions for growing brands. </p>
+                <p>My full name is Alif Ahmed. I'm a competitive programmer and web developer.I Design and develop conversion-focused websites to promote ecommerce success. Experience design and strategic marketing solutions for growing brands. I learned different technologies to build responsive and good-looking user interfaces. I also learned backend technologies for building API to make the user interface interactive. I always enjoy learning new things and also love to work with teams. A competitive and challenging work environment always gives me a boost to focus on my work. </p>
 
-                  <button onClick={()=> openInNewTab('https://drive.google.com/file/d/1-oMhLnsDu5Wh58FCowwLXJhkVyxIOpxo/view?usp=share_link')}>View Resume <ArrowRightCircle size={25} /></button>
+                  <button onClick={()=> openInNewTab('https://drive.google.com/file/d/17jJJ9KiacyQM_s4dFvOyTM6YQu509XHb/view?usp=sharing')}>View Resume <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Alif_Ahmed_portfolio_/static/css/main.7c2f2382.css",
+    "main.js": "/Alif_Ahmed_portfolio_/static/js/main.cd95dcc1.js",
+    "static/js/787.6345871b.chunk.js": "/Alif_Ahmed_portfolio_/static/js/787.6345871b.chunk.js",
+    "static/media/educ.png": "/Alif_Ahmed_portfolio_/static/media/educ.87811d674e5c23a5d2c3.png",
+    "static/media/dashb.png": "/Alif_Ahmed_portfolio_/static/media/dashb.b4f6edfef8702749fcfd.png",
+    "static/media/mypic1.png": "/Alif_Ahmed_portfolio_/static/media/mypic1.50e9718202331626700e.png",
+    "static/media/banner-bg.png": "/Alif_Ahmed_portfolio_/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/eco.png": "/Alif_Ahmed_portfolio_/static/media/eco.df4baf47f283400a14fd.png",
+    "static/media/shape3.png": "/Alif_Ahmed_portfolio_/static/media/shape3.2741357c2c1fbd8c796c.png",
+    "static/media/CentraNo2-Bold.ttf": "/Alif_Ahmed_portfolio_/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Alif_Ahmed_portfolio_/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Alif_Ahmed_portfolio_/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Alif_Ahmed_portfolio_/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/exp.png": "/Alif_Ahmed_portfolio_/static/media/exp.0076c4da1fa410c67327.png",
+    "static/media/contactImg.png": "/Alif_Ahmed_portfolio_/static/media/contactImg.e8fa34d6bd104ec5bf66.png",
+    "static/media/revicons.eot": "/Alif_Ahmed_portfolio_/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Alif_Ahmed_portfolio_/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Alif_Ahmed_portfolio_/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Alif_Ahmed_portfolio_/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/Alif_Ahmed_portfolio_/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/Alif_Ahmed_portfolio_/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/nav-icon3.svg": "/Alif_Ahmed_portfolio_/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "index.html": "/Alif_Ahmed_portfolio_/index.html",
+    "static/media/nav-icon1.svg": "/Alif_Ahmed_portfolio_/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon2.svg": "/Alif_Ahmed_portfolio_/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.7c2f2382.css.map": "/Alif_Ahmed_portfolio_/static/css/main.7c2f2382.css.map",
+    "main.cd95dcc1.js.map": "/Alif_Ahmed_portfolio_/static/js/main.cd95dcc1.js.map",
+    "787.6345871b.chunk.js.map": "/Alif_Ahmed_portfolio_/static/js/787.6345871b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2f2382.css",
+    "static/js/main.cd95dcc1.js"
+  ]
+}

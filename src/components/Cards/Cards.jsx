@@ -2,7 +2,7 @@ import React from 'react'
 import './Cards.css'
 import educ from '../../assets/educ.png'
 import dashb from '../../assets/dashb.png'
-
+import exp from '../../assets/exp.png'
 import eco from '../../assets/eco.png'
 
 
@@ -34,8 +34,32 @@ const Cards = () => {
             </p>
          
       </div>
+
+      <div className="card">
+            <div className='cardImg'>
+                  <img src={exp} alt='exp'/>
+            </div>
+            
+         
+            <p className="title">MERN - Expense Management System</p>
+            <p className="text">
+            <div className="icon"><i className="material-icons md-46" onClick={()=> openInNewTab('https://tame-ruby-wasp.cyclic.app/')} >LIVE DEMO</i></div>
+            </p>
+         
+      </div>
+      </div>
+
+     
+        
+            
+         
+           
+         
+     
+         
+     
       
-      
+      <div className="content">
       <div className="card" >
       <div className='cardImg'>
                   <img src={dashb} alt='edu'/>
@@ -45,8 +69,9 @@ const Cards = () => {
          
            
             <p className="title">React Admin Dashboard</p>
-            <p className="text">
+            <p className="text d-flex">
             <div className="icon"><i className="material-icons md-46"  onClick={()=> openInNewTab('https://alif102.github.io/Admin_Dashboard/')} >LIVE DEMO</i></div>
+            <div className="icon"><i className="material-icons md-46">DETAILS</i></div>
             </p>
          
       </div>

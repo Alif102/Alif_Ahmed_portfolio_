@@ -1,7 +1,6 @@
 {
   "name": "alifportfolio",
   "version": "0.1.0",
-  "homepage": "https://Alif102.github.io/alif_ahmed_portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
@@ -10,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "bootstrap": "^5.2.3",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-bootstrap-icons": "^1.10.2",
@@ -24,8 +22,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

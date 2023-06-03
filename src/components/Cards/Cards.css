@@ -64,6 +64,8 @@
     }
  }
  .content {
+   display: grid;
+   grid-template-columns: auto auto;
    max-width: 1024px;
    width: 100%;
    padding: 0 4%;
@@ -78,7 +80,7 @@
     width: 100%;
     max-width: 600px;
     min-width: 200px;
-    height: 280px;
+    height: 335px;
     background-color: #292929;
     margin: 10px;
     border-radius: 10px;
@@ -123,11 +125,12 @@
     letter-spacing: 2px;
     opacity: 0;
     max-height:0;
+    
     transition: all 0.3s ease;
  }
  
  .card:hover {
-    height: 270px;
+    height: 310px;
     
  }
  
@@ -139,6 +142,7 @@
     transition: all 0.3s ease;
     opacity: 1;
     max-height:40px;
+    background-color: #292929;
     
  }
  
